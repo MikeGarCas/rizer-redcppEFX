@@ -1,0 +1,101 @@
+{
+  "includes": null,
+  "data": {
+    "id": "31eb0866-e7ad-11e5-fed9-2fcc1adb4876",
+    "source_id": "3148508803",
+    "source_variant_id": "9149355651",
+    "variant_parent_id": null,
+    "name": "792C Nys Hard Case (12 Pcs)",
+    "variant_name": "792C Nys Hard Case (12 Pcs)",
+    "handle": "792C",
+    "sku": "792C",
+    "supplier_code": "792C",
+    "active": true,
+    "has_inventory": true,
+    "is_composite": false,
+    "description": "",
+    "image_url": "https://vendimageuploadcdn.global.ssl.fastly.net/350,fit,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+    "created_at": "2015-07-21T17:15:37+00:00",
+    "updated_at": "2018-09-19T21:41:34+00:00",
+    "deleted_at": null,
+    "source": "SHOPIFY",
+    "account_code": "Default Tax",
+    "account_code_purchase": null,
+    "supply_price": 35.55,
+    "version": 8033068846,
+    "type": {
+      "id": "31eb0866-e7ad-11e5-e556-0310ded089d3",
+      "name": "ACCESORIOS",
+      "deleted_at": null,
+      "version": 1148924
+    },
+    "supplier": {
+      "id": "31eb0866-e756-11e4-e556-ee009664a85d",
+      "name": "NYS COLLECTION",
+      "source": "USER",
+      "description": null,
+      "deleted_at": null,
+      "version": 8035992592
+    },
+    "brand": {
+      "id": "31eb0866-e7ad-11e5-e556-0310d9c21792",
+      "name": "NYS",
+      "deleted_at": null,
+      "version": 8035992591
+    },
+    "variant_options": [],
+    "categories": [
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-78d10eecf0fa",
+        "name": "LINEA_ESTUCHES",
+        "deleted_at": null,
+        "version": 7546589375
+      },
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-78d17d52cb1a",
+        "name": "ALTA_0715",
+        "deleted_at": null,
+        "version": 7439081510
+      },
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-a0ef85911c42",
+        "name": "TIPO_HARD CASE",
+        "deleted_at": null,
+        "version": 7963159937
+      }
+    ],
+    "images": [
+      {
+        "id": "31eb0866-e7ad-11e5-fed9-2ff955d46ffd",
+        "url": "https://vendimageuploadcdn.global.ssl.fastly.net/1920,fit/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+        "version": 1567094,
+        "sizes": {
+          "original": "https://vendimageuploadcdn.global.ssl.fastly.net/1920,fit/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "sl": "https://vendimageuploadcdn.global.ssl.fastly.net/150x150,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "sm": "https://vendimageuploadcdn.global.ssl.fastly.net/100x100,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "ss": "https://vendimageuploadcdn.global.ssl.fastly.net/50x50,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "st": "https://vendimageuploadcdn.global.ssl.fastly.net/40x40,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "standard": "https://vendimageuploadcdn.global.ssl.fastly.net/350,fit,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+          "thumb": "https://vendimageuploadcdn.global.ssl.fastly.net/160,fit,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg"
+        }
+      }
+    ],
+    "has_variants": false,
+    "variant_count": null,
+    "button_order": 0,
+    "price_including_tax": 120,
+    "price_excluding_tax": 120,
+    "loyalty_amount": null,
+    "is_active": true,
+    "image_thumbnail_url": "https://vendimageuploadcdn.global.ssl.fastly.net/160,fit,q90/vend-images/product/original/0/f/0f7009b0e3d265733467c919188ba5310cc7c6f0.jpg",
+    "product_type_id": "31eb0866-e7ad-11e5-e556-0310ded089d3",
+    "supplier_id": "31eb0866-e756-11e4-e556-ee009664a85d",
+    "brand_id": "31eb0866-e7ad-11e5-e556-0310d9c21792",
+    "tag_ids": [
+      "0adfd74a-15ad-11e8-fa42-78d10eecf0fa",
+      "0adfd74a-15ad-11e8-fa42-78d17d52cb1a",
+      "0adfd74a-15ad-11e8-fa42-a0ef85911c42"
+    ],
+    "attributes": []
+  }
+}

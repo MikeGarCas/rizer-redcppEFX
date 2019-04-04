@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "suitescript"
+    ],
+    "env": {
+        "suitescript/suitescript2": true
+    }
+}

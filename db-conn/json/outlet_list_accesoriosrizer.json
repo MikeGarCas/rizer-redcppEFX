@@ -1,0 +1,780 @@
+[
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-4e3f7a9697cc",
+    "name": "Intermall Laguna",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "amp. La Rosita",
+    "physical_city": "Torreon",
+    "physical_postcode": "27250",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355318,
+    "physical_address_1": "Calz. Vazconcelos",
+    "physical_address_2": "plaza Intermall",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "INT"
+      },
+      {
+        "key": "return_reference",
+        "value": "2"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "INT"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-549c58ce9d45",
+    "name": "Cuatro Caminos",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "TORREON",
+    "physical_postcode": "",
+    "physical_state": "COAHUILA",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355319,
+    "physical_address_1": "BLVD INDEPENDENCIA",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "CUA"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "CUA"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-5a06863af654",
+    "name": "Soriana Oriente",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Torreon",
+    "physical_postcode": "27270",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355320,
+    "physical_address_1": "Blvd Torreon - Matamoros # 5000",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "SO"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "SO"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-5e17ed30ffc5",
+    "name": "Plaza Mayor",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_suburb": "",
+    "physical_city": "Leon",
+    "physical_postcode": "37150",
+    "physical_state": "Guanajuato",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355321,
+    "physical_address_1": "Blvd. J.A. Torres 2002",
+    "physical_address_2": "Col. Valle del Campestre",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PM"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PM"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-5e3601cdf9e9",
+    "name": "Soriana Constitucion",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Torreon",
+    "physical_postcode": "27130",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355322,
+    "physical_address_1": "Blvd. Constitucion # 1111",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "SC"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "SC"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-5f8f05b7e974",
+    "name": "Soriana Las Rosas",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Gomez Palacio",
+    "physical_postcode": "35000",
+    "physical_state": "Dgo",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355326,
+    "physical_address_1": "Blvd. Miguel Aleman #1495",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "SLR"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "SLR"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-65e8b34df8d8",
+    "name": "Cuatro K 2do Piso",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "TORREON",
+    "physical_postcode": "",
+    "physical_state": "COAHUILA",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355330,
+    "physical_address_1": "BLVD INDEPENDENCIA",
+    "physical_address_2": "PLAZA CUATRO CAMINOS",
+    "physical_country_id": "",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "K2P"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "K2P"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-66b2c4f7a0e7",
+    "name": "Paseo Durango",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "Col Jardines de Durango",
+    "physical_city": "Durango",
+    "physical_postcode": "34200",
+    "physical_state": "Durango",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355332,
+    "physical_address_1": "Blvd Francisco Villa",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PD"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PD"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-7fdce740d262",
+    "name": "Galerias Laguna",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Torreoón, Coah",
+    "physical_postcode": "27250",
+    "physical_state": "Torreón",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355340,
+    "physical_address_1": "Perif. Raul Lopez Sanchez 6000",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "GAL"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "GAL"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-7fe09487673f",
+    "name": "Galerias Saltillo",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Saltillo",
+    "physical_postcode": "25279",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355342,
+    "physical_address_1": "Blvd Nazario Ortiz Garza 2345",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "GS"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "GS"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-7fe0e686beec",
+    "name": "Plaza Nogalera",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Saltillo",
+    "physical_postcode": "25090",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355343,
+    "physical_address_1": "Periferico Luis Echeverria 1474",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PN"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PN"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-7fe16f01e18f",
+    "name": "Plaza Real Saltillo",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Saltillo",
+    "physical_postcode": "25280",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355345,
+    "physical_address_1": "Blvd. Luis Echeverria  851",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PRS"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PRS"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-7fe1d08fc7c9",
+    "name": "Patio Saltillo",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Saltillo",
+    "physical_postcode": "25010",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355348,
+    "physical_address_1": "Jesus Valdez Sanchez 365",
+    "physical_address_2": "Ex Hacienda de los Cerritos",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PAT"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PAT"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-8000c4749063",
+    "name": "Soriana Jardines",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "Durango",
+    "physical_postcode": "34220",
+    "physical_state": "Durango",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355353,
+    "physical_address_1": "Magnolia # 100",
+    "physical_address_2": "Col. Jardines de Durango",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "SJ"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "SJ"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-8b989038a155",
+    "name": "Almacen Defectuosos",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Cancun",
+    "physical_suburb": "",
+    "physical_city": "Torreon",
+    "physical_postcode": "27250",
+    "physical_state": "Coahuila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355355,
+    "physical_address_1": "Castellon 382",
+    "physical_address_2": "Col. Ampoliacion La Rosita",
+    "physical_country_id": "MX",
+    "attributes": [],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-8b98b63b3052",
+    "name": "Almacen Bajo Desplazamiento",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Cancun",
+    "physical_suburb": "Col. Ampliacion La Rosita",
+    "physical_city": "Torreon",
+    "physical_postcode": "27250",
+    "physical_state": "Coauila",
+    "email": "",
+    "deleted_at": null,
+    "version": 8086355359,
+    "physical_address_1": "Castellon 382",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-72c0-11e4-efc6-48f62e59764c",
+    "name": "Almacen General",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "Col Ampl La Rosita",
+    "physical_city": "Torreon",
+    "physical_postcode": "27250",
+    "physical_state": "Coah",
+    "email": "lrios@melotraes.com ",
+    "deleted_at": null,
+    "version": 8086355361,
+    "physical_address_1": "Castellon 382",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "129"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "ALM"
+      },
+      {
+        "key": "return_reference",
+        "value": "24"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "ALM"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-691133be77f7",
+    "name": "Galerias Mazatlan",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mazatlan",
+    "physical_suburb": "",
+    "physical_city": "Mazatlan",
+    "physical_postcode": "",
+    "physical_state": "Sinaloa",
+    "email": "",
+    "deleted_at": null,
+    "version": 8618628003,
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "GM"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "GM"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "b8ca3a6e-725e-11e4-efc6-750278913e14",
+    "name": "Plaza Acaya Mazatlan",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mazatlan",
+    "physical_suburb": "",
+    "physical_city": "Mazatlan",
+    "physical_postcode": "",
+    "physical_state": "Sinaloa",
+    "email": null,
+    "deleted_at": null,
+    "version": 8907792689,
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_country_id": "MX",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PSM"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PSM"
+      }
+    ],
+    "currency_symbol": "$"
+  },
+  {
+    "id": "0afa8de1-145e-11e8-edec-d09a3110cb4d",
+    "name": "Plaza Mayor 2",
+    "default_tax_id": "b8ca3a6e-72c0-11e4-efc6-48f62e42a12c",
+    "currency": "USD",
+    "display_prices": "exclusive",
+    "time_zone": "America/Monterrey",
+    "physical_suburb": "",
+    "physical_city": "LEON",
+    "physical_postcode": "",
+    "physical_state": "",
+    "email": "MARCOS@GRUPORUZER.COM",
+    "deleted_at": null,
+    "version": 9212922010,
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_country_id": "",
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "PL2"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "PL2"
+      }
+    ],
+    "currency_symbol": "$"
+  }
+]

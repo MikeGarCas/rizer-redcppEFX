@@ -1,0 +1,26 @@
+{
+  "name": "scripts_vend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "lint": "eslint src",
+    "build": "node ./build.js; babel src -d dist; zip -r dist.zip dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Said Anaya Mancilla",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-minify": "^0.5.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^5.10.0",
+    "eslint-config-google": "^0.11.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-suitescript": "^0.1.1",
+    "fs-extra": "^7.0.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0"
+  }
+}

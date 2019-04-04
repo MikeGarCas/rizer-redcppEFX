@@ -1,0 +1,110 @@
+{
+    "domain_prefix": "nyscollection",
+    "environment": "prod",
+    "payload": {
+        "created_at": "2018-12-16 20:41:36",
+        "customer": {
+            "balance": "0.00000",
+            "company_name": null,
+            "contact_first_name": null,
+            "contact_last_name": null,
+            "created_at": "2015-04-28 23:45:01",
+            "custom_field_1": null,
+            "custom_field_2": null,
+            "custom_field_3": null,
+            "custom_field_4": null,
+            "customer_code": "WALKIN",
+            "customer_group_id": "31eb0866-e756-11e4-e556-ee009637073f",
+            "date_of_birth": null,
+            "deleted_at": null,
+            "do_not_email": false,
+            "email": null,
+            "enable_loyalty": false,
+            "fax": null,
+            "first_name": null,
+            "id": "31eb0866-e756-11e4-e556-ee009637f5eb",
+            "last_name": null,
+            "loyalty_balance": "0.00000",
+            "mobile": null,
+            "note": null,
+            "phone": null,
+            "points": 0,
+            "sex": null,
+            "updated_at": "2015-04-28 23:45:01",
+            "year_to_date": "0.00000"
+        },
+        "customer_id": "31eb0866-e756-11e4-e556-ee009637f5eb",
+        "deleted_at": null,
+        "id": "a64c6e47-d644-9932-11e9-0172898d22ae",
+        "invoice_number": "AG2177",
+        "note": "",
+        "register_id": "31eb0866-e756-11e4-e556-ee0096731442",
+        "register_sale_payments": [],
+        "register_sale_products": [
+            {
+                "discount": "0.00000",
+                "id": "a64c6e47-d644-9932-11e9-0172db96b8f0",
+                "loyalty_value": "0.00000",
+                "note": null,
+                "price": "2.00000",
+                "price_set": false,
+                "price_total": "2.00000",
+                "product_id": "3e691360-9ba3-45ef-6a2e-308c868e773b",
+                "quantity": 1,
+                "tax": "0.00000",
+                "tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+                "tax_total": "0.00000"
+            },
+            {
+                "discount": "0.00000",
+                "id": "a64c6e47-d644-9932-11e9-0172de95a112",
+                "loyalty_value": "0.00000",
+                "note": null,
+                "price": "2.00000",
+                "price_set": true,
+                "price_total": "-2.00000",
+                "product_id": "31eb0866-e756-11e4-e556-ee00966da00b",
+                "quantity": -1,
+                "tax": "0.00000",
+                "tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+                "tax_total": "0.00000"
+            }
+        ],
+        "sale_date": "2018-12-16T20:41:31Z",
+        "short_code": "3kwz7v",
+        "source": "USER",
+        "source_id": null,
+        "status": "CLOSED",
+        "taxes": [
+            {
+                "id": "9644ec61-ee00-11e4-a556-31eb0866e756",
+                "name": "No Tax",
+                "rate": "0.00000",
+                "tax": 0
+            }
+        ],
+        "totals": {
+            "total_loyalty": "0.00000",
+            "total_payment": "0.00000",
+            "total_price": "0.00000",
+            "total_tax": "0.00000",
+            "total_to_pay": "0.00000"
+        },
+        "updated_at": "2018-12-16T20:41:36+00:00",
+        "user": {
+            "created_at": "2018-06-07 16:54:35",
+            "display_name": "Luis Francisco Sanchez",
+            "email": "luis.sanchez@efficientix.com",
+            "id": "0adfd74a-15ad-11e8-fa42-6a73756d4a8d",
+            "name": "l.sanchez",
+            "target_daily": null,
+            "target_monthly": null,
+            "target_weekly": null,
+            "updated_at": "2018-06-07 16:54:35"
+        },
+        "user_id": "0adfd74a-15ad-11e8-fa42-6a73756d4a8d",
+        "version": 9123577768
+    },
+    "retailer_id": "31eb0866-e756-11e4-e556-ee00962933d0",
+    "type": "sale.update"
+}

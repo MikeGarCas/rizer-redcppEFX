@@ -1,0 +1,204 @@
+[
+  {
+    "id": "31eb0866-e756-11e4-e556-ee00967171ab",
+    "name": "NYS Almacen General",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "Castellon # 382",
+    "physical_address_2": "",
+    "physical_suburb": "Amp. La Rosita",
+    "physical_city": "Torreon",
+    "physical_postcode": "27250",
+    "physical_state": "Coahuila",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 382601,
+    "attributes": []
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-e556-031858931394",
+    "name": "NYS Galerias Campeche",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "Campeche",
+    "physical_postcode": "",
+    "physical_state": "Campeche",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 475497483,
+    "attributes": []
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-e556-0318b6c85222",
+    "name": "NYS Galerias Laguna",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "Torreon",
+    "physical_postcode": "",
+    "physical_state": "Coahuila",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 475497485,
+    "attributes": []
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-e556-03358075892f",
+    "name": "NYS Cuatro Caminos",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "",
+    "physical_postcode": "",
+    "physical_state": "",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 475497488,
+    "attributes": []
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-e556-146009cea84f",
+    "name": "Almacen Defectuosos",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "",
+    "physical_postcode": "",
+    "physical_state": "",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 475497489,
+    "attributes": []
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-fed9-83f68dbae544",
+    "name": "Almacén Bajo Desplazamiento",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mexico_City",
+    "physical_address_1": "castellon",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "torreon",
+    "physical_postcode": "",
+    "physical_state": "",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 475497490,
+    "attributes": []
+  },
+  {
+    "id": "0adfd74a-15ad-11e7-fa42-7225b35d28c5",
+    "name": "NYS Galerias Mazatlan",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mazatlan",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "Mazatlan",
+    "physical_postcode": "",
+    "physical_state": "Sinaloa",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 5037001306,
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": "1"
+      },
+      {
+        "key": "order_reference",
+        "value": "2"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "GM"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "GM"
+      }
+    ]
+  },
+  {
+    "id": "31eb0866-e7ad-11e5-e556-0319a314c7fc",
+    "name": "NYS Sendero Mazatlan",
+    "default_tax_id": "31eb0866-e756-11e4-e556-ee009643ebb3",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "display_prices": "exclusive",
+    "time_zone": "America/Mazatlan",
+    "physical_address_1": "",
+    "physical_address_2": "",
+    "physical_suburb": "",
+    "physical_city": "Mazatlan",
+    "physical_postcode": "",
+    "physical_state": "Sinaloa",
+    "physical_country_id": "MX",
+    "email": "",
+    "deleted_at": null,
+    "version": 5037018470,
+    "attributes": [
+      {
+        "key": "low_stock_warning",
+        "value": ""
+      },
+      {
+        "key": "order_reference",
+        "value": "1"
+      },
+      {
+        "key": "order_reference_prefix",
+        "value": "SM"
+      },
+      {
+        "key": "return_reference",
+        "value": "1"
+      },
+      {
+        "key": "return_reference_prefix",
+        "value": "SM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "includes": null,
+  "data": {
+    "id": "0adfd74a-15ad-11e8-fa42-a0ef790e816a",
+    "source_id": "1582553071673",
+    "source_variant_id": "15352513462329",
+    "variant_parent_id": null,
+    "name": "8499 Rost Place",
+    "variant_name": "8499 Rost Place",
+    "handle": "8499",
+    "sku": "8499",
+    "supplier_code": "8499",
+    "active": true,
+    "has_inventory": true,
+    "is_composite": false,
+    "description": null,
+    "image_url": "https://vendimageuploadcdn.global.ssl.fastly.net/350,fit,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+    "created_at": "2018-08-16T00:58:22+00:00",
+    "updated_at": "2018-09-19T19:43:02+00:00",
+    "deleted_at": null,
+    "source": "SHOPIFY",
+    "account_code": null,
+    "account_code_purchase": null,
+    "supply_price": 53.37,
+    "version": 8002619683,
+    "type": {
+      "id": "31eb0866-e7ad-11e5-e556-0310d9a8d0cc",
+      "name": "LENTES",
+      "deleted_at": null,
+      "version": 1148923
+    },
+    "supplier": {
+      "id": "31eb0866-e756-11e4-e556-ee009664a85d",
+      "name": "NYS COLLECTION",
+      "source": "USER",
+      "description": null,
+      "deleted_at": null,
+      "version": 8035992592
+    },
+    "brand": {
+      "id": "31eb0866-e7ad-11e5-e556-0310d9c21792",
+      "name": "NYS",
+      "deleted_at": null,
+      "version": 8035992591
+    },
+    "variant_options": [],
+    "categories": [
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-78d112e086e3",
+        "name": "LINEA_SIGNATURE",
+        "deleted_at": null,
+        "version": 7546644645
+      },
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-78d14d1c630d",
+        "name": "TIPO_SPORT",
+        "deleted_at": null,
+        "version": 7439064857
+      },
+      {
+        "id": "0adfd74a-15ad-11e8-fa42-a0ef76209d0a",
+        "name": "ALTA_0818",
+        "deleted_at": null,
+        "version": 7963154816
+      }
+    ],
+    "images": [
+      {
+        "id": "2cddb84b-0aeb-83d1-7394-0c49529c54fd",
+        "url": "https://vendimageuploadcdn.global.ssl.fastly.net/1920,fit/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+        "version": 8002618544,
+        "sizes": {
+          "original": "https://vendimageuploadcdn.global.ssl.fastly.net/1920,fit/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "sl": "https://vendimageuploadcdn.global.ssl.fastly.net/150x150,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "sm": "https://vendimageuploadcdn.global.ssl.fastly.net/100x100,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "ss": "https://vendimageuploadcdn.global.ssl.fastly.net/50x50,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "st": "https://vendimageuploadcdn.global.ssl.fastly.net/40x40,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "standard": "https://vendimageuploadcdn.global.ssl.fastly.net/350,fit,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+          "thumb": "https://vendimageuploadcdn.global.ssl.fastly.net/160,fit,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg"
+        }
+      }
+    ],
+    "has_variants": false,
+    "variant_count": null,
+    "button_order": 0,
+    "price_including_tax": 500,
+    "price_excluding_tax": 500,
+    "loyalty_amount": null,
+    "brand_id": "31eb0866-e7ad-11e5-e556-0310d9c21792",
+    "tag_ids": [
+      "0adfd74a-15ad-11e8-fa42-78d112e086e3",
+      "0adfd74a-15ad-11e8-fa42-78d14d1c630d",
+      "0adfd74a-15ad-11e8-fa42-a0ef76209d0a"
+    ],
+    "is_active": true,
+    "image_thumbnail_url": "https://vendimageuploadcdn.global.ssl.fastly.net/160,fit,q90/vend-images/product/original/9/3/932ff077a5aa02f459848641f6051aff01afc3d1.jpg",
+    "product_type_id": "31eb0866-e7ad-11e5-e556-0310d9a8d0cc",
+    "supplier_id": "31eb0866-e756-11e4-e556-ee009664a85d",
+    "attributes": []
+  }
+}
